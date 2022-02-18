@@ -15,7 +15,7 @@ namespace Ficha_2
         public Movimento()
         {
             this.valor = 0;
-            this.debito = true;
+            this.debito = false;
             this.descricao = "Movimento em branco";
         }
         public Movimento(double valor, bool debito)
@@ -30,6 +30,13 @@ namespace Ficha_2
             this.debito = debito;
             this.descricao = descricao;
         }
+        public Movimento(string descricao)
+        {
+            this.valor = 0;
+            this.debito = false;
+            this.descricao = descricao;
+        }
+
         //overrides
         public override string ToString()
         {
@@ -41,6 +48,7 @@ namespace Ficha_2
             text = text + valor.ToString("0.00") + " €";
             return text;
         }
+        //movimento igual ignora descricao
         public override bool Equals(object obj)
         {
             Movimento mov = obj as Movimento;
