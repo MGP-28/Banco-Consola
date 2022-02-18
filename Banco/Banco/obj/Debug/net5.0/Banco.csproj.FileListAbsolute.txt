@@ -1,0 +1,16 @@
+D:\JP\OneDrive\OneDrive - ATEC - Academia de Formação\GIT\Banco-Consola\Banco\Banco\bin\Debug\net5.0\Banco.exe
+D:\JP\OneDrive\OneDrive - ATEC - Academia de Formação\GIT\Banco-Consola\Banco\Banco\bin\Debug\net5.0\Banco.deps.json
+D:\JP\OneDrive\OneDrive - ATEC - Academia de Formação\GIT\Banco-Consola\Banco\Banco\bin\Debug\net5.0\Banco.runtimeconfig.json
+D:\JP\OneDrive\OneDrive - ATEC - Academia de Formação\GIT\Banco-Consola\Banco\Banco\bin\Debug\net5.0\Banco.runtimeconfig.dev.json
+D:\JP\OneDrive\OneDrive - ATEC - Academia de Formação\GIT\Banco-Consola\Banco\Banco\bin\Debug\net5.0\Banco.dll
+D:\JP\OneDrive\OneDrive - ATEC - Academia de Formação\GIT\Banco-Consola\Banco\Banco\bin\Debug\net5.0\ref\Banco.dll
+D:\JP\OneDrive\OneDrive - ATEC - Academia de Formação\GIT\Banco-Consola\Banco\Banco\bin\Debug\net5.0\Banco.pdb
+D:\JP\OneDrive\OneDrive - ATEC - Academia de Formação\GIT\Banco-Consola\Banco\Banco\obj\Debug\net5.0\Banco.csprojAssemblyReference.cache
+D:\JP\OneDrive\OneDrive - ATEC - Academia de Formação\GIT\Banco-Consola\Banco\Banco\obj\Debug\net5.0\Banco.GeneratedMSBuildEditorConfig.editorconfig
+D:\JP\OneDrive\OneDrive - ATEC - Academia de Formação\GIT\Banco-Consola\Banco\Banco\obj\Debug\net5.0\Banco.AssemblyInfoInputs.cache
+D:\JP\OneDrive\OneDrive - ATEC - Academia de Formação\GIT\Banco-Consola\Banco\Banco\obj\Debug\net5.0\Banco.AssemblyInfo.cs
+D:\JP\OneDrive\OneDrive - ATEC - Academia de Formação\GIT\Banco-Consola\Banco\Banco\obj\Debug\net5.0\Banco.csproj.CoreCompileInputs.cache
+D:\JP\OneDrive\OneDrive - ATEC - Academia de Formação\GIT\Banco-Consola\Banco\Banco\obj\Debug\net5.0\Banco.dll
+D:\JP\OneDrive\OneDrive - ATEC - Academia de Formação\GIT\Banco-Consola\Banco\Banco\obj\Debug\net5.0\ref\Banco.dll
+D:\JP\OneDrive\OneDrive - ATEC - Academia de Formação\GIT\Banco-Consola\Banco\Banco\obj\Debug\net5.0\Banco.pdb
+D:\JP\OneDrive\OneDrive - ATEC - Academia de Formação\GIT\Banco-Consola\Banco\Banco\obj\Debug\net5.0\Banco.genruntimeconfig.cache

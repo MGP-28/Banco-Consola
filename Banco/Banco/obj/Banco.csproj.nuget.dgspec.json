@@ -1,36 +1,38 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pc\\OneDrive - ATEC - Academia de Formação\\GIT\\Banco-Consola\\Banco\\Banco\\Banco.csproj": {}
+    "D:\\JP\\OneDrive\\OneDrive - ATEC - Academia de Formação\\GIT\\Banco-Consola\\Banco\\Banco\\Banco.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pc\\OneDrive - ATEC - Academia de Formação\\GIT\\Banco-Consola\\Banco\\Banco\\Banco.csproj": {
+    "D:\\JP\\OneDrive\\OneDrive - ATEC - Academia de Formação\\GIT\\Banco-Consola\\Banco\\Banco\\Banco.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pc\\OneDrive - ATEC - Academia de Formação\\GIT\\Banco-Consola\\Banco\\Banco\\Banco.csproj",
+        "projectUniqueName": "D:\\JP\\OneDrive\\OneDrive - ATEC - Academia de Formação\\GIT\\Banco-Consola\\Banco\\Banco\\Banco.csproj",
         "projectName": "Banco",
-        "projectPath": "C:\\Users\\pc\\OneDrive - ATEC - Academia de Formação\\GIT\\Banco-Consola\\Banco\\Banco\\Banco.csproj",
-        "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pc\\OneDrive - ATEC - Academia de Formação\\GIT\\Banco-Consola\\Banco\\Banco\\obj\\",
+        "projectPath": "D:\\JP\\OneDrive\\OneDrive - ATEC - Academia de Formação\\GIT\\Banco-Consola\\Banco\\Banco\\Banco.csproj",
+        "packagesPath": "C:\\Users\\T0121081\\.nuget\\packages\\",
+        "outputPath": "D:\\JP\\OneDrive\\OneDrive - ATEC - Academia de Formação\\GIT\\Banco-Consola\\Banco\\Banco\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\T0121081\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net6.0"
+          "net5.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
+          "net5.0": {
+            "targetAlias": "net5.0",
             "projectReferences": {}
           }
         },
@@ -41,8 +43,8 @@
         }
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
+        "net5.0": {
+          "targetAlias": "net5.0",
           "imports": [
             "net461",
             "net462",
@@ -58,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -22,26 +22,18 @@ namespace Ficha_2
             this.limiar = 0;
             this.Movimentacao = new List<Movimento>();
         }
-        public Conta(int id)
+        public Conta(int id, double saldo, bool especial, double limite)
         {
             this.id = id;
-            this.saldo = 0;
-            this.especial = especial;
-            this.limiar = 0;
-            this.Movimentacao = new List<Movimento>();
-        }
-        public Conta(int id, double saldo, bool especial, double limite) : this(id)
-        {
-            this.id = id;
-            this.saldo = 0;
+            this.saldo = saldo;
             this.especial = especial;
             this.limiar = limite;
             this.Movimentacao = new List<Movimento>();
         }
-        public Conta(int id, double saldo, bool especial, double limite, List<Movimento> movimentacao) : this(id, saldo, especial, limite)
+        public Conta(int id, double saldo, bool especial, double limite, List<Movimento> movimentacao)
         {
             this.id = id;
-            this.saldo = 0;
+            this.saldo = saldo;
             this.especial = especial;
             this.limiar = limite;
             this.Movimentacao = new List<Movimento>();
